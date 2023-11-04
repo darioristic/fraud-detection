@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../fraud-detection"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../offline-scoring"
+		},
+		{
+			"path": "../training"
+		}
+	],
+	"settings": {}
+}
